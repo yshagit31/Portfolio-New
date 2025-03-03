@@ -249,10 +249,10 @@ box-shadow: 0 0 15px #0ef;
     width: 85%;
 }
 .progress.css span {
-    width: 70%;
+    width: 80%;
 }
 .progress.js span {
-    width: 60%;
+    width: 80%;
 }
 .progress.cpp span {
     width: 85%;
@@ -287,10 +287,10 @@ box-shadow: 0 0 15px #0ef;
     content: "85%";
 }
 .progress.css .percentage::after {
-    content: '70%';
+    content: '80%';
 }
 .progress.js .percentage::after {
-    content: '60%';
+    content: '80%';
 }
 .progress.cpp .percentage::after {
     content: '85%';
