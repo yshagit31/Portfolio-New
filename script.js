@@ -1,5 +1,5 @@
 var typed = new Typed(".movingtext", {
-  strings: [ "Frontend Web Developer"],
+  strings: [ "Full Satck Web Developer"],
   typeSpeed: 50,
   backSpeed: 50,
   backDelay: 100,
