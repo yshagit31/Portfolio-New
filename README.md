@@ -65,7 +65,6 @@ To view or modify this portfolio, follow these steps:
 For any inquiries or feedback, feel free to reach out:
 
 - **Email**: [yshashank024@gmail.com](mailto:yshashank024@gmail.com)
-- **Phone**: +919161358360
 - **Location**: Bengaluru, India
 
 Connect with me on [Instagram](https://www.instagram.com/_shank_12/), [Twitter](https://twitter.com/Shashank255722), [LinkedIn](https://www.linkedin.com/in/shashank-yadav-870577259), and [GitHub](https://github.com/yshagit31).
